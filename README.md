@@ -1,4 +1,4 @@
-# **GenTravel**
+# **DestinAI**
 
 ## An intelligent trip planner that leverages the Gemini AI model for personalized travel recommendations, built using React with Vite for the frontend and Firebase for the backend.
 
